@@ -12,6 +12,9 @@ Project Mata Kuliah Data Wrangling Sains Data UNESA X Statistika UNJ
 - Data Jumlah Penduduk: Diperoleh dari https://pelita.kemendagri.go.id/kemendagri/dataset/262/tabel-data, berisi data jumlah penduduk tiap provinsi di Indonesia tahun 2018-2023.
 
 ## Tahapan
+
+<img width="1772" height="1181" alt="Image" src="https://github.com/user-attachments/assets/595e7b4d-7d6c-40c1-88df-488bfeceaab5" />
+
 1. Pengambilan Data
 2. Data Cleaning
 3. Integrasi Data
