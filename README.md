@@ -19,4 +19,6 @@ Tahapan
 5. Data Publishing
 
 Hasil
-<img width="959" height="730" alt="Image" src="https://github.com/user-attachments/assets/4660a332-39bd-4ff9-af79-cc85585bea7a" />
+Heatmap Korelasi Kejadian Banjir
+<img width="359" height="130" alt="Image" src="https://github.com/user-attachments/assets/4660a332-39bd-4ff9-af79-cc85585bea7a" />
+Kejadian banjir berkorelasi kuat dengan rumah terendam, kerusakan fasum, dan korban meninggal, sehingga frekuensi banjir sangat berpengaruh pada tingkat kerusakan. Variabel luka kembali menunjukkan korelasi rendah.
