@@ -61,15 +61,37 @@ Kejadian banjir berkorelasi kuat dengan rumah terendam, kerusakan fasum, dan kor
 
 ## Grafik Tanah Longsor
 ### Histogram Total Kejadian
+
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/e50569b1-549f-4c27-8813-a8f92f9e102d" />
+
 ### Histogram Total Meninggal
+
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/97bd0a77-797c-4cc2-9191-94f99971f79f" />
+
 ### Histogram Total Luka
+
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/03f0c29b-6b4c-4e7b-81ce-e770f88dbb47" />
+
 ### Histogram Total Rumah Rusak
+
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/03f0c29b-6b4c-4e7b-81ce-e770f88dbb47" />
+
 ### Heatmap Korelasi Kejadian Tanah Longsor
 
 <img width="959" height="730" alt="Image" src="https://github.com/user-attachments/assets/46c7b71d-a30b-4fe6-98b2-f5eb4ab9da92" />
 
+
 Kejadian longsor menunjukkan korelasi sangat kuat dengan kerusakan rumah dan fasilitas umum, sehingga semakin banyak kejadian maka semakin besar dampaknya. Variabel luka memiliki hubungan yang lemah dengan variabel lain.
 
-### Total Kejadian per provinsi
-### Pie Chart Kerentanan
 ### Scatter Plot
+
+<img width="571" height="455" alt="Image" src="https://github.com/user-attachments/assets/d1b22551-5e3c-45a0-b7b2-eb8a44fe1df9" />
+### Total Kejadian per provinsi
+
+<img width="850" height="578" alt="Image" src="https://github.com/user-attachments/assets/f32182b1-50b4-42b9-b332-dfc9687c6296" />
+
+### Pie Chart Kerentanan
+
+<img width="504" height="504" alt="Image" src="https://github.com/user-attachments/assets/02d01a9e-ee17-42b6-9f58-2c0ec9e2fb28" />
+
+
