@@ -16,4 +16,7 @@ Tahapan
 2. Data Cleaning
 3. Integrasi Data
 4. Eksplorasi Data (EDA)
-5. Data Publishing 
+5. Data Publishing
+
+Hasil
+<img width="959" height="730" alt="Image" src="https://github.com/user-attachments/assets/4660a332-39bd-4ff9-af79-cc85585bea7a" />
