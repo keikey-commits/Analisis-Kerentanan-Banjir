@@ -97,7 +97,7 @@ Distribusi Total_Terluka menunjukkan pola yang serupa, di mana mayoritas wilayah
 
 ### Histogram Total Rumah Rusak
 
-<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/a94eb4f0-9d36-468d-86b3-a05927d2d565" />
+<img width="454" height="316" alt="Image" src="https://github.com/user-attachments/assets/92689084-8d25-4fc7-9046-f95dc00a2449" />
 
 Pada variabel Total_Rumah_Rusak, sebagian besar wilayah mengalami kerusakan rumah pada rentang 0–100 unit. Meski demikian, terdapat beberapa wilayah yang mencatat kerusakan dalam skala ratusan rumah, serta satu outlier yang mencapai hampir 800 unit. Hal ini menunjukkan bahwa kerusakan rumah akibat longsor umumnya tidak besar, tetapi sesekali terjadi bencana dengan dampak kerusakan yang sangat signifikan.
 
